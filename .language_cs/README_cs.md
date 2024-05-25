@@ -20,7 +20,7 @@ Zkratka slouží k doplnění diakritiky do textu, který je uložený ve schrá
 
 
 ### Ke stažení
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/f82e9e8251fb444c8f545882b52969b2)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/2e116bb08d784f7294902185d24dde47)
 
 ### Instalace
 Stačí otevřít odkaz v iPhone.

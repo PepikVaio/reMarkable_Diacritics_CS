@@ -20,7 +20,7 @@ The shortcut is used to add diacritics to the text that is stored in the clipboa
 
 
 ### Downloads
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/f82e9e8251fb444c8f545882b52969b2)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/2e116bb08d784f7294902185d24dde47)
 
 ### Installation
 Just open the link on your iPhone.
