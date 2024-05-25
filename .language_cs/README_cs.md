@@ -31,7 +31,8 @@ Ideálně si nastavit si zkratku na poklepání zad iPhone.
 
 ## Pomoc
 Vytvořte problémy, pokud najdete problém.
-[![YouTube](https://img.shields.io/badge/youtube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
+
+[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
 
 ## Historie verzí
 2024
