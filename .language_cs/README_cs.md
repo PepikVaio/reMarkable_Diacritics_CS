@@ -16,14 +16,14 @@ Zkratka slouží k doplnění diakritiky do textu, který je uložený ve schrá
 
 ### Závislosti
 * iPhone
-* [aplikaci ChatGPT](https://apps.apple.com/cz/app/chatgpt/id6448311069?l=cs)
+* [aplikace ChatGPT](https://apps.apple.com/cz/app/chatgpt/id6448311069?l=cs)
 
 
 ### Ke stažení
 [![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/f82e9e8251fb444c8f545882b52969b2)
 
 ### Instalace
-Stačí otevřít odkaz v iPhone
+Stačí otevřít odkaz v iPhone.
 
 ### Používání
 Ideálně si nastavit si zkratku na poklepání zad iPhone.
