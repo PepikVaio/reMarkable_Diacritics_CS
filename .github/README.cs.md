@@ -1,0 +1,64 @@
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/Diacritics_CS/tree/main)
+[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/Diacritics_CS/blob/main/.github/README.cs.md)
+[![supported: iPad](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
+
+
+
+# Diacritics CS!
+
+Doplnění diakritiku do textu.
+
+
+
+## Popis
+
+Zkratka slouží k doplnění diakritiky do textu, který je uložený ve schránce.
+* Jakmile se diakritika doplní, uloží se nový text do schránky. 
+
+* testováno - iPhone
+
+
+## Začínáme
+
+### Závislosti
+
+* iPhone
+* [aplikaci ChatGPT](https://apps.apple.com/cz/app/chatgpt/id6448311069?l=cs)
+
+
+### Ke stažení
+K dispozici je verze lite, která je zcela zdarma a neobsahuje žádné omezení funkčnosti
+* obsahuje vodoznak
+
+[![download](https://www.icloud.com/shortcuts/f82e9e8251fb444c8f545882b52969b2)
+
+
+### Instalace
+Stačí otevřít odkaz v iPhone
+
+
+### Používání
+Ideálně si nastavit si zkratku na poklepání zad iPhone.
+
+
+## Pomoc
+Vytvořte problémy, pokud najdete problém.
+
+
+## Historie verzí
+
+2024
+* první vydání
+
+
+## Autoři
+
+Wajsar Josef
+* Wajsar.Josef@hotmail.com
+
+
+## Poděkování
+
+Inspirace, úryvky kódu atd...
+* [readme - vícejazyčné](https://github.com/jonatasemidio/multilanguage-readme-pattern)
+* [readme - ikony](https://www.etsy.com/?ref=lgo)
