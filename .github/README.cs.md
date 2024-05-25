@@ -6,7 +6,7 @@
 
 # Diacritics CS!
 
-Doplnění diakritiku do textu.
+Doplnění diakritiky do textu.
 
 
 
