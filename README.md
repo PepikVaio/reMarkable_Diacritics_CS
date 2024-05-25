@@ -28,7 +28,7 @@ Just open the link on your iPhone.
 ### Help
 Ideally, set a shortcut for tapping the back of the iPhone.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
+[![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
 
 
 ## Pomoc
