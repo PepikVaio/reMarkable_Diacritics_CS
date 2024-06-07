@@ -1,48 +1,106 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/PepikVaio/reMarkable_Diacritics_CS?tab=readme-ov-file)
-[![cs](https://img.shields.io/badge/lang-cs-springgreen.svg)](https://github.com/PepikVaio/reMarkable_Diacritics_CS/blob/main/.language_cs/README_cs.md)
-[![supported: iPad](https://img.shields.io/badge/iPhone-supported-blueviolet)](https://www.apple.com/cz/iphone/)
+# ts-markdown <!-- omit in toc -->
 
+An extensible TypeScript markdown generator that takes JSON and creates a markdown document.
 
+[📖 Docs](https://kgar.github.io/ts-markdown/) | [🎮 Playground (Live Demo)](https://kgar.github.io/ts-markdown/playground.html)
 
-# Diacritics CS!
-Adding diacritics to the text.
+---
 
-## Description
-The shortcut is used to add diacritics to the text that is stored in the clipboard.
-* As soon as the diacritics are completed, the new text is saved to the clipboard. 
-* tested - iPhone
+- [Quick Start](#quick-start)
+- [Extensibility](#extensibility)
+- [Compatibility](#compatibility)
+- [Why This Project?](#why-this-project)
+- [🙌 Credit](#-credit)
+  - [Credit to json2md](#credit-to-json2md)
+  - [Credit to Markdown Guide](#credit-to-markdown-guide)
+- [🌏 Contribution Guidelines](#-contribution-guidelines)
+- [License](#license)
 
-## Getting Started
+## Quick Start
 
-### Addictions
-* iPhone
-* [ChatGPT application](https://apps.apple.com/cz/app/chatgpt/id6448311069?l=cs)
+Install **ts-markdown**:
 
+```sh
+npm install ts-markdown
+# or "yarn add ts-markdown"
+```
 
-### Downloads
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/2e116bb08d784f7294902185d24dde47)
+Generate some markdown:
 
-### Installation
-Just open the link on your iPhone.
+```ts
+import { tsMarkdown } from 'ts-markdown';
 
-### Usage
-Ideally, set a shortcut for tapping the back of the iPhone.
+// Make markdown entries
+const entries = [
+  {
+    h4: 'Hello, world!',
+  },
+  {
+    blockquote: "Let's generate markdown!",
+  },
+  { p: 'Generating markdown from data can be simple. All you need are:' },
+  {
+    ol: [
+      'objects',
+      'a function',
+      {
+        text: ['and a place to run ', { emoji: 'checkered_flag' }],
+      },
+    ],
+  },
+];
 
-[![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
+return tsMarkdown(entries); // returns the markdown document as a string
+```
 
-## Help
-Create issues if you find a problem.
+And the result is:
 
-## Version history
-2024
-* first edition
+```md
+#### Hello, world!
 
+> Let's generate markdown!
 
-## Authors
-Wajsar Josef
-* Wajsar.Josef@hotmail.com
+Generating markdown from data can be simple. All you need are:
 
-## Acknowledgements
-Inspiration, code snippets, etc...
-* [readme - multi language](https://github.com/jonatasemidio/multilanguage-readme-pattern)
-* [readme - icons](https://www.etsy.com/?ref=lgo)
+1. objects
+2. a function
+3. and a place to run :checkered_flag:
+```
+
+For more information about supported markdown elements, view the [type docs](https://kgar.github.io/ts-markdown/modules.html). All support markdown elements end with `Entry`, such as `LinkEntry`, `ImageEntry`, `UnorderedListEntry`, and so on.
+
+For more examples of **generating markdown**, check out the [cookbook](https://kgar.github.io/ts-markdown/pages/cookbook.html).
+
+## Extensibility
+
+You can extend **ts-markdown** to render your own custom elements or even override existing renderers.
+
+For more information on extending **ts-markdown**, see [Extending ts-markdown](https://kgar.github.io/ts-markdown/pages/extending-ts-markdown.html).
+
+## Compatibility
+
+**ts-markdown** is written in TypeScript and node JS. It works with node JS v16.x and higher. Earlier versions may also work, but it is not guaranteed.
+
+## Why This Project?
+
+I am an avid user of [Obsidian.md](https://www.obsidian.md), and as I build my vaults of information, I sometimes need to convert JSON into markdown in a programmatic way. I may be working on a project to crunch some JSON and build articles, and having the ability to offload the complexity of rendering markdown to a library would be ideal. Additionally, having TypeScript typing support sweetens the deal for me.
+
+Because I could not find an active / monitored library that handled the level of complexity I need when building my Obsidian markdown documents, I decided to make it myself.
+
+## 🙌 Credit
+
+### Credit to [json2md](https://github.com/IonicaBizau/json2md)
+
+This library is heavily inspired by [Ionică Bizău's](https://github.com/IonicaBizau) [json2md](https://github.com/IonicaBizau/json2md) library, which was the only highly starred repo I could find that offered the kind of functionality I wanted. I also like the modeling the author chose, so I have patterned mine after theirs, adding and expanding in ways that make sense to me.
+
+### Credit to [Markdown Guide](https://www.markdownguide.org/)
+
+The unit tests in this library cover almost all cases defined in [Markdown Guide](https://www.markdownguide.org/), an excellent website for getting exactly the details needed for writing good markdown. Any best practices that I've applied are most likely based on this website.
+
+## 🌏 Contribution Guidelines
+
+Have an idea? Found a bug? See [how to contribute](https://github.com/kgar/data-driven-markdown/blob/main/CONTRIBUTING.md).
+
+## License
+
+[MIT](https://github.com/kgar/data-driven-markdown/blob/main/LICENSE) © [KGar](https://github.com/kgar)
