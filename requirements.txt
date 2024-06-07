@@ -1,3 +1,0 @@
-pandas
-pyexcel-ods
-tabulate
