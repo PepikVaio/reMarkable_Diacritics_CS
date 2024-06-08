@@ -17,9 +17,11 @@
       "title":"New Update!",
       "content":[
          "A new version is available, please update before continuing.",
+         "You will be redirected to the Github page for the download and some shortcut data will also be deleted.",
          "",
          "(cs) Nová aktualizace!",
          "K dispozici je nová verze, před pokračováním prosím aktualizujte."
+         "Budete presměrováni na stránku Github pro stažení a také se smažou některé data zkratky."
       ]
    },
    
