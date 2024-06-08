@@ -1,0 +1,23 @@
+{
+  "info": {
+    "title": "Diacritics CS",
+    "version": "1.0",
+    "language": "iPhone shortcut",
+    "description": "Adding diacritics to the text.",
+    "description_cs": "Doplnění diakritiky do textu.",
+    "developer": "Wajsar Josef",
+    "github_path": "https://github.com/PepikVaio/reMarkable_Diacritics_CS"
+  },
+  "texts": {
+    "cesky": [
+      "texty",
+      "texty"
+    ],
+    "anglicky": [
+      "texts",
+      "texts"
+    ]
+  }
+}
+
+
