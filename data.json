@@ -24,19 +24,19 @@
          "Budete přesměrováni na stránku Github pro stažení a také se smažou některé data zkratky."
       ],
       "news":[
-         "* Added english language.",
-         "* Added option to delete clipboard after certain time.",
-         "* Added checking for new updates.",
-         "* Moving all texts to the Github server and thereby opening the possibility to correct errors in the text without updating the shortcut.",
+         "* English language added.",
+         "* Added option to delete clipboard.",
+         "* Added check for new updates.",
+         "* Moving the texts to the Github server and the ability to correct errors in the text on the fly.",
          "* Saving configuration files to iCloud Drive.",
-         "* Changed the notification on inserting edited text - it won't stay in the notification center.",
+         "* Changed the notification for inserting edited text.",
          "",
          "(cs) Přidán anglický jazyk.",
-         "* Přidaná možnost po určitém čase smazat schránku.",
+         "* Přidaná možnost smazat schránku.",
          "* Přidaná kontrola nových aktualizací.",
-         "* Přesun veškerých textů na Github server a tím otevření možnosti opravovat chyby v textu bez aktualizace zkratky.",
+         "* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.",
          "* Ukládání konfiguračních souborů na iCloud Drive.",
-         "* Změna oznámení o vložení upraveného textu - nezústane v oznamovacím centru."
+         "* Změna oznámení o vložení upraveného textu."
       ]
    },
    
