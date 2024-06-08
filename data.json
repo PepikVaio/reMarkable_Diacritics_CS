@@ -24,15 +24,15 @@
          "Budete přesměrováni na stránku Github pro stažení a také se smažou některé data zkratky."
       ],
       "news":[
-         "Added english language.",
-         "Added checking for new updates.",
-         "Moving all texts to the Github server and thereby opening the possibility to correct errors in the text without updating the shortcut.",
-         "Saving configuration files to iCloud Drive.",
+         "* Added english language.",
+         "* Added checking for new updates.",
+         "* Moving all texts to the Github server and thereby opening the possibility to correct errors in the text without updating the shortcut.",
+         "* Saving configuration files to iCloud Drive.",
          "",
          "(cs) Přidán anglický jazyk.",
-         "Přidaná kontrola nových aktualizací.",
-         "Přesun veškerých textů na Github server a tím otevření možnosti opravovat chyby v textu bez aktualizace zkratky.",
-         "Ukládání konfiguračních souborů na iCloud Drive."
+         "* Přidaná kontrola nových aktualizací.",
+         "* Přesun veškerých textů na Github server a tím otevření možnosti opravovat chyby v textu bez aktualizace zkratky.",
+         "* Ukládání konfiguračních souborů na iCloud Drive."
       ]
    },
    
