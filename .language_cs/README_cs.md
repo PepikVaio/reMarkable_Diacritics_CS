@@ -35,7 +35,7 @@ Vytvořte problémy, pokud najdete problém.
 [![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
 
 ## Historie verzí
-2024
+1.0
 * první vydání
 
 
