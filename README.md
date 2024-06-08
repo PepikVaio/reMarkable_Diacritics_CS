@@ -35,9 +35,13 @@ Ideally, set a shortcut for tapping the back of the iPhone.
 Create issues if you find a problem.
 
 ## Version history
-1.0
-* first edition
-
+2.0
+* English language added.
+* Added option to delete clipboard.
+* Added check for new updates.
+* Moving the texts to the Github server and the ability to correct errors in the text on the fly.
+* Saving configuration files to iCloud Drive.
+* Changed the notification for inserting edited text.
 
 ## Authors
 Wajsar Josef

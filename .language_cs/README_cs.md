@@ -35,9 +35,13 @@ Vytvořte problémy, pokud najdete problém.
 [![YouTube](https://img.shields.io/badge/video-YouTube-red)](https://youtu.be/11kzIVPvCu0?si=rPG1BSNr1YD6hQeM)
 
 ## Historie verzí
-1.0
-* první vydání
-
+2.0
+* Přidán anglický jazyk.
+* Přidaná možnost smazat schránku.
+* Přidaná kontrola nových aktualizací.
+* Přesun textů na Github server a možnosti opravovat chyby v textu za běhu.
+* Ukládání konfiguračních souborů na iCloud Drive.
+* Změna oznámení o vložení upraveného textu.
 
 ## Autoři
 Wajsar Josef
