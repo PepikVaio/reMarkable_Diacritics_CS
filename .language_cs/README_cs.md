@@ -43,6 +43,9 @@ Vytvořte problémy, pokud najdete problém.
 * Ukládání konfiguračních souborů na iCloud Drive.
 * Změna oznámení o vložení upraveného textu.
 
+1.0
+* první vydání
+
 ## Autoři
 Wajsar Josef
 * Wajsar.Josef@hotmail.com
