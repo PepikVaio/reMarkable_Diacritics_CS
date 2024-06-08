@@ -29,11 +29,7 @@
          "",
          "(cs) Vložte text, u kterého chcete doplnit diakritiku."
       ],
-      "input":[
-         "Please add diacritics to the text.",
-         "",
-         "(cs) Doplň prosím do textu diakritiku."
-      ],
+      "input": "Doplň diakritiku: ",
       "title":"Done!",
       "content":[
          "Diacritics have been added to the text, you have it saved in your clipboard.",
