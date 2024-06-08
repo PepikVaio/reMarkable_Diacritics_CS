@@ -25,12 +25,14 @@
       ],
       "news":[
          "* Added english language.",
+         "* Added option to delete clipboard after certain time.",
          "* Added checking for new updates.",
          "* Moving all texts to the Github server and thereby opening the possibility to correct errors in the text without updating the shortcut.",
          "* Saving configuration files to iCloud Drive.",
-         "* Changed the notification on inserting edited text - it won't stay in the notification center."
+         "* Changed the notification on inserting edited text - it won't stay in the notification center.",
          "",
          "(cs) Přidán anglický jazyk.",
+         "* Přidaná možnost po určitém čase smazat schránku.",
          "* Přidaná kontrola nových aktualizací.",
          "* Přesun veškerých textů na Github server a tím otevření možnosti opravovat chyby v textu bez aktualizace zkratky.",
          "* Ukládání konfiguračních souborů na iCloud Drive.",
