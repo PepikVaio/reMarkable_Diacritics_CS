@@ -6,7 +6,8 @@
     "language": "iPhone shortcut",
     "description": [
       "Adding diacritics to the text.",
-      "Doplnění diakritiky do textu."
+      
+      "(cs) Doplnění diakritiky do textu."
     ],
     "developer": "Wajsar Josef",
     "github_path": "https://github.com/PepikVaio/reMarkable_Diacritics_CS"
