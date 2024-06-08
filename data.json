@@ -11,16 +11,16 @@
     ],
     "developer": "Wajsar Josef",
     "github_path": "https://github.com/PepikVaio/reMarkable_Diacritics_CS"
-
   },
+  
   "release": {
     "title": {
       "New Update!"
     },
     "content": [
       "A new version is available, please update before continuing.",
-      ""
-      "(cs) Nová aktualizace!."
+      "",
+      "(cs) Nová aktualizace!.",
       "K dispozici je nová verze, před pokračováním prosím aktualizujte."
     ],
   }
