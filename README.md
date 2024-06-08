@@ -34,7 +34,7 @@ Ideally, set a shortcut for tapping the back of the iPhone.
 Create issues if you find a problem.
 
 ## Version history
-2024
+1.0
 * first edition
 
 
