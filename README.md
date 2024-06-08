@@ -44,7 +44,7 @@ Create issues if you find a problem.
 * Changed the notification for inserting edited text.
 
 1.0
-* first edition
+* first release
 
 
 ## Authors
