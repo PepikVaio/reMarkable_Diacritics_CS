@@ -20,7 +20,7 @@ The shortcut is used to add diacritics to the text that is stored in the clipboa
 
 
 ### Downloads
-[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://github.com/PepikVaio/reMarkable_Diacritics_CS/releases)
+[![download](https://img.shields.io/badge/download-latest_release-slategray)](https://www.icloud.com/shortcuts/c57e8d82ac37486fb94f50228a482265)
 
 
 ### Installation
