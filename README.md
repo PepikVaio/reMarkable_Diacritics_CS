@@ -43,6 +43,10 @@ Create issues if you find a problem.
 * Saving configuration files to iCloud Drive.
 * Changed the notification for inserting edited text.
 
+1.0
+* first edition
+
+
 ## Authors
 Wajsar Josef
 * Wajsar.Josef@hotmail.com
