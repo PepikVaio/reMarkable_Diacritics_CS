@@ -4,13 +4,13 @@
       "version":"1.0",
       "date":"08/07/2024",
       "language":"iPhone shortcut",
+      "developer":"@Wajsar_Josef",
+      "github_path":"https://github.com/PepikVaio/reMarkable_Diacritics_CS",
       "description":[
          "Adding diacritics to the text.",
          "",
          "(cs) Doplnění diakritiky do textu."
       ],
-      "developer":"@Wajsar_Josef",
-      "github_path":"https://github.com/PepikVaio/reMarkable_Diacritics_CS"
    },
    
    "release":{
@@ -22,6 +22,17 @@
          "(cs) Nová aktualizace!",
          "K dispozici je nová verze, před pokračováním prosím aktualizujte.",
          "Budete přesměrováni na stránku Github pro stažení a také se smažou některé data zkratky."
+      ],
+      "news":[
+         "Added english language.",
+         "Added checking for new updates.",
+         "Moving all texts to the Github server and thereby opening the possibility to correct errors in the text without updating the shortcut.",
+         "Saving configuration files to iCloud Drive.",
+         "",
+         "(cs) Přidán anglický jazyk.",
+         "Přidaná kontrola nových aktualizací.",
+         "Přesun veškerých textů na Github server a tím otevření možnosti opravovat chyby v textu bez aktualizace zkratky.",
+         "Ukládání konfiguračních souborů na iCloud Drive."
       ]
    },
    
