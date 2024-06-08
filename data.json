@@ -12,6 +12,7 @@
       "developer":"Wajsar Josef",
       "github_path":"https://github.com/PepikVaio/reMarkable_Diacritics_CS"
    },
+   
    "release":{
       "title":"New Update!",
       "content":[
@@ -21,6 +22,7 @@
          "K dispozici je nová verze, před pokračováním prosím aktualizujte."
       ]
    },
+   
    "chatGPT":{
       "info":[
          "Insert the text for which you want to add diacritics.",
@@ -32,15 +34,12 @@
          "",
          "(cs) Doplň prosím do textu diakritiku."
       ],
-      "output":[
+      "title":"Done!",
+      "content":[
          "Diacritics have been added to the text, you have it saved in your clipboard.",
          "",
-         "(cs) Do textu byla přidaná diakritika, máte ji uloženou ve schránce."
-      ],
-      "result":[
-         "Done!.",
-         "",
-         "(cs) Hotovo!."
+         "(cs) Hotovo!.",
+         "Do textu byla přidaná diakritika, máte ji uloženou ve schránce."
       ]
    }
 }
