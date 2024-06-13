@@ -10,7 +10,7 @@ Adding diacritics to the text.
 ## Description
 The shortcut is used to add diacritics to the text that is stored in the clipboard.
 * As soon as the diacritics are completed, the new text is saved to the clipboard. 
-* tested - iPhone
+* tested - iPhone 12 mini
 
 ## Getting Started
 
