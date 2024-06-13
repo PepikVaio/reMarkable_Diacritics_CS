@@ -26,7 +26,7 @@ Zkratka slouží k doplnění diakritiky do textu, který je uložený ve schrá
 Stačí otevřít odkaz v iPhone.
 
 ### Používání
-Ideálně si nastavit si zkratku na poklepání zad iPhone.
+Ideálně si nastavit zkratku na poklepání zad iPhone.
 
 
 ## Pomoc
