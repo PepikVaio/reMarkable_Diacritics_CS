@@ -4,7 +4,7 @@
 
 
 
-# Diacritics CS!
+# reMarkable - Diacritics CS!
 Doplnění diakritiky do textu.
 
 ## Popis
