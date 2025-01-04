@@ -4,7 +4,7 @@
 
 
 
-# Diacritics CS!
+# reMarkable - Diacritics CS!
 Adding diacritics to the text.
 
 ## Description
